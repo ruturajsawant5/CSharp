@@ -1,0 +1,5 @@
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\matrixStudent\matrixStudent\bin\Debug\matrixStudent.exe.config
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\matrixStudent\matrixStudent\bin\Debug\matrixStudent.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\matrixStudent\matrixStudent\bin\Debug\matrixStudent.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\matrixStudent\matrixStudent\obj\Debug\matrixStudent.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\matrixStudent\matrixStudent\obj\Debug\matrixStudent.pdb

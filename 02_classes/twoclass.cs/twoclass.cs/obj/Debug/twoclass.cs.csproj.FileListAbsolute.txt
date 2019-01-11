@@ -1,0 +1,6 @@
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twoclass.cs\twoclass.cs\bin\Debug\twoclass.cs.exe.config
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twoclass.cs\twoclass.cs\obj\Debug\twoclass.cs.csprojResolveAssemblyReference.cache
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twoclass.cs\twoclass.cs\bin\Debug\twoclass.cs.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twoclass.cs\twoclass.cs\bin\Debug\twoclass.cs.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twoclass.cs\twoclass.cs\obj\Debug\twoclass.cs.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twoclass.cs\twoclass.cs\obj\Debug\twoclass.cs.pdb
