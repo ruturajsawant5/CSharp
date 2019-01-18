@@ -1,1 +1,5 @@
 C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\ArrayThings\ArrayThings\bin\Debug\ArrayThings.exe.config
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\ArrayThings\ArrayThings\bin\Debug\ArrayThings.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\ArrayThings\ArrayThings\bin\Debug\ArrayThings.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\ArrayThings\ArrayThings\obj\Debug\ArrayThings.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\ArrayThings\ArrayThings\obj\Debug\ArrayThings.pdb
