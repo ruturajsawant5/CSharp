@@ -1,0 +1,8 @@
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\bin\Debug\dllthings.exe.config
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\bin\Debug\dllthings.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\bin\Debug\dllthings.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\bin\Debug\dllone.dll
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\bin\Debug\dllone.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\obj\Debug\dllthings.csprojResolveAssemblyReference.cache
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\obj\Debug\dllthings.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllthings\dllthings\obj\Debug\dllthings.pdb
