@@ -1,0 +1,5 @@
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllone\dllone\bin\Debug\dllone.dll
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllone\dllone\bin\Debug\dllone.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllone\dllone\obj\Debug\dllone.csprojResolveAssemblyReference.cache
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllone\dllone\obj\Debug\dllone.dll
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\dllone\dllone\obj\Debug\dllone.pdb

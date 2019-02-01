@@ -1,0 +1,6 @@
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\Company\Company\bin\Debug\Company.exe.config
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\Company\Company\bin\Debug\Company.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\Company\Company\bin\Debug\Company.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\Company\Company\obj\Debug\Company.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\Company\Company\obj\Debug\Company.pdb

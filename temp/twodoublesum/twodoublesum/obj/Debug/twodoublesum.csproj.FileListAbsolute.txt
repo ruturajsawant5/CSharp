@@ -1,0 +1,5 @@
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twodoublesum\twodoublesum\bin\Debug\twodoublesum.exe.config
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twodoublesum\twodoublesum\bin\Debug\twodoublesum.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twodoublesum\twodoublesum\bin\Debug\twodoublesum.pdb
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twodoublesum\twodoublesum\obj\Debug\twodoublesum.exe
+C:\Users\dyp\Documents\Visual Studio 2012\Projects\ruturaj37\twodoublesum\twodoublesum\obj\Debug\twodoublesum.pdb
