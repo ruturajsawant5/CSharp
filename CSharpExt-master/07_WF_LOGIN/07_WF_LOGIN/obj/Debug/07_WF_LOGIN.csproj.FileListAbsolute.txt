@@ -1,0 +1,8 @@
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\bin\Debug\07_WF_LOGIN.exe.config
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\bin\Debug\07_WF_LOGIN.exe
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\bin\Debug\07_WF_LOGIN.pdb
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\obj\Debug\_07_WF_LOGIN.Form1.resources
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\obj\Debug\_07_WF_LOGIN.Properties.Resources.resources
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\obj\Debug\07_WF_LOGIN.csproj.GenerateResource.Cache
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\obj\Debug\07_WF_LOGIN.exe
+C:\Users\Ruturaj\Desktop\c#final\07_WF_LOGIN\07_WF_LOGIN\obj\Debug\07_WF_LOGIN.pdb

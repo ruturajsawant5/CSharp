@@ -1,0 +1,5 @@
+C:\Users\Ruturaj\Desktop\c#final\14_delegates\14_delegates\bin\Debug\14_delegates.exe.config
+C:\Users\Ruturaj\Desktop\c#final\14_delegates\14_delegates\bin\Debug\14_delegates.exe
+C:\Users\Ruturaj\Desktop\c#final\14_delegates\14_delegates\bin\Debug\14_delegates.pdb
+C:\Users\Ruturaj\Desktop\c#final\14_delegates\14_delegates\obj\Debug\14_delegates.exe
+C:\Users\Ruturaj\Desktop\c#final\14_delegates\14_delegates\obj\Debug\14_delegates.pdb

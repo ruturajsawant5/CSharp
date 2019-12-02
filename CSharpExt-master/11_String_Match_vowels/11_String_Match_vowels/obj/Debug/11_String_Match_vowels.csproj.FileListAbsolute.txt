@@ -1,0 +1,5 @@
+C:\Users\Ruturaj\Desktop\c#final\11_String_Match_vowels\11_String_Match_vowels\bin\Debug\11_String_Match_vowels.exe.config
+C:\Users\Ruturaj\Desktop\c#final\11_String_Match_vowels\11_String_Match_vowels\bin\Debug\11_String_Match_vowels.exe
+C:\Users\Ruturaj\Desktop\c#final\11_String_Match_vowels\11_String_Match_vowels\bin\Debug\11_String_Match_vowels.pdb
+C:\Users\Ruturaj\Desktop\c#final\11_String_Match_vowels\11_String_Match_vowels\obj\Debug\11_String_Match_vowels.exe
+C:\Users\Ruturaj\Desktop\c#final\11_String_Match_vowels\11_String_Match_vowels\obj\Debug\11_String_Match_vowels.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ruturaj\Desktop\c#final\05_Part1_StringMethods\05_Part1_StringMethods\bin\Debug\05_Part1_StringMethods.exe.config
+C:\Users\Ruturaj\Desktop\c#final\05_Part1_StringMethods\05_Part1_StringMethods\bin\Debug\05_Part1_StringMethods.exe
+C:\Users\Ruturaj\Desktop\c#final\05_Part1_StringMethods\05_Part1_StringMethods\bin\Debug\05_Part1_StringMethods.pdb
+C:\Users\Ruturaj\Desktop\c#final\05_Part1_StringMethods\05_Part1_StringMethods\obj\Debug\05_Part1_StringMethods.exe
+C:\Users\Ruturaj\Desktop\c#final\05_Part1_StringMethods\05_Part1_StringMethods\obj\Debug\05_Part1_StringMethods.pdb

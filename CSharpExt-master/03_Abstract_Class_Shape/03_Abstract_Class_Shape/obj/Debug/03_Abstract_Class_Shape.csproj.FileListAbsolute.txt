@@ -1,0 +1,6 @@
+C:\Users\Ruturaj\Desktop\c#final\03_Abstract_Class_Shape\03_Abstract_Class_Shape\bin\Debug\03_Abstract_Class_Shape.exe.config
+C:\Users\Ruturaj\Desktop\c#final\03_Abstract_Class_Shape\03_Abstract_Class_Shape\obj\Debug\03_Abstract_Class_Shape.csprojResolveAssemblyReference.cache
+C:\Users\Ruturaj\Desktop\c#final\03_Abstract_Class_Shape\03_Abstract_Class_Shape\bin\Debug\03_Abstract_Class_Shape.exe
+C:\Users\Ruturaj\Desktop\c#final\03_Abstract_Class_Shape\03_Abstract_Class_Shape\bin\Debug\03_Abstract_Class_Shape.pdb
+C:\Users\Ruturaj\Desktop\c#final\03_Abstract_Class_Shape\03_Abstract_Class_Shape\obj\Debug\03_Abstract_Class_Shape.exe
+C:\Users\Ruturaj\Desktop\c#final\03_Abstract_Class_Shape\03_Abstract_Class_Shape\obj\Debug\03_Abstract_Class_Shape.pdb

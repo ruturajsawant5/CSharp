@@ -1,0 +1,5 @@
+C:\Users\Ruturaj\Desktop\c#final\12_REGEX_Remove_startend\12_REGEX_Remove_startend\bin\Debug\12_REGEX_Remove_startend.exe.config
+C:\Users\Ruturaj\Desktop\c#final\12_REGEX_Remove_startend\12_REGEX_Remove_startend\bin\Debug\12_REGEX_Remove_startend.exe
+C:\Users\Ruturaj\Desktop\c#final\12_REGEX_Remove_startend\12_REGEX_Remove_startend\bin\Debug\12_REGEX_Remove_startend.pdb
+C:\Users\Ruturaj\Desktop\c#final\12_REGEX_Remove_startend\12_REGEX_Remove_startend\obj\Debug\12_REGEX_Remove_startend.exe
+C:\Users\Ruturaj\Desktop\c#final\12_REGEX_Remove_startend\12_REGEX_Remove_startend\obj\Debug\12_REGEX_Remove_startend.pdb

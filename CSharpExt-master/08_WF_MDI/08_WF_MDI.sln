@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_WF_MDI", "08_WF_MDI\08_WF_MDI.csproj", "{B1AF4C15-FB04-460E-BDF5-A27E286CC7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AF4C15-FB04-460E-BDF5-A27E286CC7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AF4C15-FB04-460E-BDF5-A27E286CC7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AF4C15-FB04-460E-BDF5-A27E286CC7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AF4C15-FB04-460E-BDF5-A27E286CC7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Ruturaj\Desktop\c#final\01_Matrix\01_Matrix\bin\Debug\01_Matrix.exe.config
+C:\Users\Ruturaj\Desktop\c#final\01_Matrix\01_Matrix\bin\Debug\01_Matrix.exe
+C:\Users\Ruturaj\Desktop\c#final\01_Matrix\01_Matrix\bin\Debug\01_Matrix.pdb
+C:\Users\Ruturaj\Desktop\c#final\01_Matrix\01_Matrix\obj\Debug\01_Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ruturaj\Desktop\c#final\01_Matrix\01_Matrix\obj\Debug\01_Matrix.exe
+C:\Users\Ruturaj\Desktop\c#final\01_Matrix\01_Matrix\obj\Debug\01_Matrix.pdb

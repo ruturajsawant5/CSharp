@@ -1,0 +1,5 @@
+C:\Users\Ruturaj\Desktop\c#final\13_Abstract_RECT_TRI_CIR\13_Abstract_RECT_TRI_CIR\bin\Debug\13_Abstract_RECT_TRI_CIR.exe.config
+C:\Users\Ruturaj\Desktop\c#final\13_Abstract_RECT_TRI_CIR\13_Abstract_RECT_TRI_CIR\bin\Debug\13_Abstract_RECT_TRI_CIR.exe
+C:\Users\Ruturaj\Desktop\c#final\13_Abstract_RECT_TRI_CIR\13_Abstract_RECT_TRI_CIR\bin\Debug\13_Abstract_RECT_TRI_CIR.pdb
+C:\Users\Ruturaj\Desktop\c#final\13_Abstract_RECT_TRI_CIR\13_Abstract_RECT_TRI_CIR\obj\Debug\13_Abstract_RECT_TRI_CIR.exe
+C:\Users\Ruturaj\Desktop\c#final\13_Abstract_RECT_TRI_CIR\13_Abstract_RECT_TRI_CIR\obj\Debug\13_Abstract_RECT_TRI_CIR.pdb

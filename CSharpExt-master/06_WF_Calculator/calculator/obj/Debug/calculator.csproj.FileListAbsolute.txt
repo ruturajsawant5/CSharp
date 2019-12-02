@@ -1,0 +1,24 @@
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\lab-4\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Prashant\Desktop\New folder\PRASHANT\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Ruturaj\Desktop\c#\PROGRAM SUBMISSION\2 CALCULATOR\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Ruturaj\Desktop\c#\PROGRAM SUBMISSION\2 CALCULATOR\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Ruturaj\Desktop\c#\PROGRAM SUBMISSION\2 CALCULATOR\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Ruturaj\Desktop\c#final\06_WF_Calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Ruturaj\Desktop\c#final\06_WF_Calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Ruturaj\Desktop\c#final\06_WF_Calculator\calculator\obj\Debug\calculator.pdb

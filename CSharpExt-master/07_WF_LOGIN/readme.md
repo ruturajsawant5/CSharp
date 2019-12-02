@@ -1,0 +1,1 @@
+perform the program for Implementation of windows form database connectivity for successfully login application. And use progress bar control for password field to show the entered password strength.

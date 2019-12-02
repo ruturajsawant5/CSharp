@@ -1,0 +1,5 @@
+C:\Users\Ruturaj\Desktop\c#final\10_REGEX_m..e\10_REGEX_m..e\bin\Debug\_10_REGEX_m._.e.exe.config
+C:\Users\Ruturaj\Desktop\c#final\10_REGEX_m..e\10_REGEX_m..e\bin\Debug\_10_REGEX_m._.e.exe
+C:\Users\Ruturaj\Desktop\c#final\10_REGEX_m..e\10_REGEX_m..e\bin\Debug\_10_REGEX_m._.e.pdb
+C:\Users\Ruturaj\Desktop\c#final\10_REGEX_m..e\10_REGEX_m..e\obj\Debug\_10_REGEX_m._.e.exe
+C:\Users\Ruturaj\Desktop\c#final\10_REGEX_m..e\10_REGEX_m..e\obj\Debug\_10_REGEX_m._.e.pdb

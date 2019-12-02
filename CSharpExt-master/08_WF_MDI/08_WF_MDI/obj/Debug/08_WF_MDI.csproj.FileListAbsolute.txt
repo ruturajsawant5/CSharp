@@ -1,0 +1,10 @@
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\bin\Debug\08_WF_MDI.exe.config
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\bin\Debug\08_WF_MDI.exe
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\bin\Debug\08_WF_MDI.pdb
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\_08_WF_MDI.Form1.resources
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\_08_WF_MDI.Form2.resources
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\_08_WF_MDI.Properties.Resources.resources
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\08_WF_MDI.csproj.GenerateResource.Cache
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\08_WF_MDI.exe
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\08_WF_MDI.pdb
+C:\Users\Ruturaj\Desktop\c#final\08_WF_MDI\08_WF_MDI\obj\Debug\08_WF_MDI.csprojResolveAssemblyReference.cache
